@@ -2,6 +2,7 @@
   "name": "lastfmcp",
   "version": "0.1.0",
   "description": "Last.fm MCP server for music history and artist recommendations",
+  "license": "Apache-2.0",
   "type": "module",
   "main": "dist/index.js",
   "scripts": {

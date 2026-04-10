@@ -1,5 +1,7 @@
 # lastfmcp
 
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+
 A [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server that connects Claude to your [Last.fm](https://www.last.fm) listening history. Ask Claude to recommend new artists, explore genres, or summarize what you've been listening to — all grounded in your actual play data.
 
 ## How it works
